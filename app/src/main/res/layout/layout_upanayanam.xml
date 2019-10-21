@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@color/colorPrimary">
+
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:background="@drawable/ic_arrow_back"
+            android:padding="@dimen/_5sdp" />
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_toEndOf="@+id/back_button"
+            android:fontFamily="@font/ramabhadra"
+            android:maxLines="1"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top_layout">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical">
+
+            <LinearLayout
+                android:id="@+id/relative_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/_10sdp"
+                android:orientation="vertical">
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center"
+                    android:hint="@string/name"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_birth_star"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/birth_star"
+                    android:textSize="18sp" />
+
+                <Spinner
+                    android:id="@+id/spinner_birth_star"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/star_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_paadam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/paddam"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_paadam"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/paddam_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt__rasi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/rasi"
+                    android:textSize="18sp" />
+
+                <Spinner
+                    android:id="@+id/spinner_rasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/rasi_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_father_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:hint="@string/father_name"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_father_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_father_star"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/birth_star"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_father_star"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/star_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_father_paadam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/paddam"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_father_paadam"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/paddam_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_father_rasi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/rasi"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_father_rasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/rasi_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_mother_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:hint="@string/mother_name"
+                    android:textColor="#000"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_mother_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_mother_star"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/birth_star"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_mother_star"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/star_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_mother_paadam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/paddam"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_mother_paadam"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/paddam_array"
+                    android:spinnerMode="dropdown" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_mother_rasi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/rasi"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_mother_rasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/rasi_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_place_muhurtham"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:hint="@string/place_of_muhurtham"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_place_muhurtham"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_country"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/country"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+
+                    android:id="@+id/spinner_country"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_near_town"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:hint="@string/near_town"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_near_town"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_state"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/state"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_state"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_required"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:hint="@string/required_muhurtham"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_required"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="text"
+                        android:padding="10dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <TextView
+                    android:id="@+id/txt_perfered_month"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/prefered_months"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_month"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/prefered_month_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+
+                <TextView
+                    android:id="@+id/txt_perfered_week"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="@string/prefered_week"
+                    android:textSize="18sp" />
+
+
+                <Spinner
+                    android:id="@+id/spinner_week"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:entries="@array/prefered_week_array"
+                    android:spinnerMode="dropdown" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#9E9595" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:hint="@string/your_email_id"
+                    android:textSize="18sp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_email_id"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="textEmailAddress" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txt_write"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/writer">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edit_write"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:inputType="textMultiLine|textPostalAddress"
+                        android:lines="3"
+                        android:maxLines="3"
+                        android:minLines="3" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_checks"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:id="@+id/txt_muhuthrutam"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:text="@string/content"
+                        android:textColor="#000"
+                        android:textSize="15sp" />
+
+                </LinearLayout>
+
+
+                <Button
+                    android:id="@+id/btn_submit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/btn_background"
+                    android:text="submit"
+                    android:textColor="#FFF" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_20sdp"/>
+            </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

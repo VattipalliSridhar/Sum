@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">సుముహూర్తం</string>
+
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+
+
+    <string name="select_telugu">తెలుగు</string>
+    <string name="select_english">ఇంగ్లీష్</string>
+
+    <string name="home">హోం పేజి</string>
+    <string name="muhurtham">ముహూర్తం</string>
+    <string name="gallery">చిత్రాలు</string>
+    <string name="contact">సంప్రదించండి</string>
+
+
+    <string name="home_page">
+
+        <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/mallanna.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:24px; font-weight:bold;" >సుముహుర్తం కు స్వాగతం</div>
+            </div>
+
+            <div style="text-align:center; font-size:13px; color:#bb3536;">
+            <strong><br />శ్రీరస్తు<br />
+            మంII కలా ముహూర్తాః కాష్టాశ్చాహోత్రాశ్చ సర్వాశః I<br/>
+     అర్ధమాసా మాసా ఋతవస్సంవత్సరశ్చకలన్తామ్II </strong><br />
+      </div>
+
+       <br />
+      <div style="text-align:justify;">
+     కాలం పరమాత్మ స్వరూపం. మనం ఆరంభించే ఏ పని అయినా ఇబ్బందులు కలగకుండా పూర్తి కావాలనీ, తన లక్ష్యాన్ని చేరుకోవాలనీ, అభివృద్ధిని సాధించాలనీ, ప్రతి వ్యక్తి కి సహజంగా ఉంటుంది.
+ఇందుకోసం మంచి సమయాన్ని నిర్ణయించుకుంటురు. ప్రపంచ దేశాలు, సర్వ మతములు కాలాన్ని గురించి అవగాహన కలిగి ఉన్నాయి. ప్రాచీన సంస్కృతి కలిగిన  ప్రదేశాలలో ఖగోళానికి సంబంధించిన విజ్ఞానము, వాటికి సంబంధించిన గాధలు  వాడుకలో  ఉన్నవి. మన భారత దేశము ఇంకొంచెము నిశితముగా పరిశీలించి, పరిశోధించి జ్యోతిషశాస్త్రరూపంలో  మంచి సమయములను తెలియ పరిచినది. తద్వారా శుభఫలములను పొందుచున్నాము. పరమాత్మ కాల స్వరూపంగా వ్యక్తమైనపుడు కొన్ని నియమిత గుణములు కాలమునందు భాసించును. అవియే శుభకాలము, అశుభకాలము అని వ్యవహరించుచున్నాము. నిమేషము, కల, ముహూర్తము, కాష్ఠ , అహోరాత్రము, అర్ధమాసము, మాసము, ఋతువు, అయనము, సంవత్సరము మొదలగునవి కాలాంతర్భాగములై ఉన్నవి.
+
+        <br />
+        <br />
+      కాలగణన కల్పములతోను, స్వాయంభువాది మన్వంతరములతో, కృతాది యుగములతోను, ప్రభవాది సంవత్సరములతోను, దక్షిణోదగయనములతోను, వసంతాది ఋతువులతోను, చైత్రాది మాసములతోను, శుక్ల, కృష్ణాది పక్షములతోను, ఆదివారాది వారములతోను, దివారాత్రములతోను, ముహూర్తములతోను, తుదకు రెప్పపాటు కాలాన్నికూడా ఎంతగానో విచారించి తెలియజేయబడినది. ముహుర్త దర్పణంలో ఉపనయనప్రకరణం గురించి చెబుతూ..... <br />
+      <br />
+      <div style="text-align:center; color:#bb3536;"><strong>
+                            శ్లోII లగ్నేసితః కర్మణి దేవపూజ్యోభవేద్రవిఃశీతకఃశుభంశేI<br/>
+                            హృదిస్థ శాస్త్రాణ్యపి వర్ధయంతి ప్రియక్షణేనేన యథేంద్రియాణిII
+  </strong></div>
+      <br />
+     ఇటువంటి  గ్రహస్థితి కలిగిన సమయములో ఉపనయనము చేస్తే మనకిష్టమైన (వివాహ, ఉత్సవ, జాతరాదులలో) సమయములలో ఆనంద వరవశాన్ని పొందినపుడు ఏవిధముగా  ఐతే కర,చరణాది అవయవంబులు కూడ ఉప్పాంగుచుండునో ఆవిధముగనే వటువు  యొక్కహృద్గతమైన విద్యలు కూడ వృద్ధి చెందునవి చెప్పబడుచున్నది. అందువల్ల శుభ సమయములందు సకల కార్యములను నిర్వర్తించి, శ్రేయోదాయక మైన  వేద, ఋషి, ప్రోక్తములైన మార్గముల ద్వారా సర్వ సౌఖ్యములను పొందెదరు గాక.
+       <br />
+
+      </div>
+
+      </body>
+	    </html>
+		]]>
+    </string>
+
+    <string name="contact_page">
+
+         <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/mallanna.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:24px; font-weight:bold;" >సంప్రదించండి</div>
+            </div>
+ <div style="text-align:justify;">
+      <p>
+      జ్యోతిష్య, ముహూర్త, వాస్తు, సంఖ్యా శాస్త్రజ్ఞ విషయములకు, మనశ్శాంతికి, శరీర సౌఖ్యమునకు, ధనాభి వృద్ధికి, కుటుంబవృద్ధికి, దాన దాసీజనులకు, భూ, గృహ, విద్యాభివృద్ధికి, సంతానమునకు, మనో వికాసమునకు, రోగ ఋణవిముక్తి కొరకు వివాహసిద్ధి కొరకు, భార్యభర్త సౌఖ్యమునకు, ఆయుష్షునకు, పిత్రీయమైన ధన భోగభాగ్యాదులకు, ఉద్యోగ, వ్యాపార, వ్యవసాయవృద్ధికి, ఇన్ కంటాక్స్, ఆడిట్, కోర్టు వ్యవహారము లకు, అన్ని రంగములా విజయం చేకూరుటకు, ప్రయాణములు ఫలించుటకు మమ్ములను సంప్రదించగలరు. <br/>
+              మీకు కావలసిన వివాహ, ఉపనయన, గృహప్రవేశ, షష్టిపూర్తి, మొదలగు శుభకార్యములు , దేవతా ప్రతిష్టాదులు, పూజలు, జపములు, పారాయణలు, హోమములు, వ్రతములు యథా శాస్త్రీయముగా ఆయా విద్వాంసులచే మీరుకోరిన విధముగా జరిపించబడును.
+      </p>  <p>మానవ సహజంగా ప్రతివ్యక్తికి సమస్యలు, కష్ట నష్టములు వస్తూ ఉంటాయి. కాని మనకు వచ్చిన సమస్యను గుర్తించి డానికి తగిన దోషపరిహరమును చేసుకోనడం కోసమే వేదశాస్త్రాదులన్నీ ఉపయోగపడుచున్నాయి. అటువంటి వేద విహిత దోష పరిహారము ద్వారా మన సమస్యలను సమూలంగా నాశనం చేసుకోనవచ్చును. ఈ విధానంలో మీకు వచ్చిన సమస్యకు వేద కర్మల ద్వారా  దోషపరిహారము చేయ గోరువారు మమ్ములను సంప్రదించగలరు.</p><br/>
+      <div style="text-align:center;">
+                   <strong style="color:#bb3536;">“ఘనరత్న”</strong><br />
+              గొల్లపల్లి వెంకట్రామ సుబ్రహ్మణ్య ఘనపాఠి, ఎం.ఏ. <br />
+              ఎన్,బి,బి,ఎన్ , దేవస్థాన పండితులు ,<br />
+              ఎన్,బి,బి,ఎన్ , దేవస్థాన పండితులు <br />
+              అన్నవరం, పిన్-533406<br />
+              తూర్పుగోదావరి జిల్లా, ఆంధ్రప్రదేశ్, ఇండియ.<br />
+              సెల్ నం-9848641220.<br />
+              Email: <a href="mailto:vedabhavangollapalli@gmail.com" style="color:#bb3536; border-bottom:1px dashed; text-decoration:none;">vedabhavangollapalli@gmail.com</a><br />
+        <br /><br /><br />
+        </div>
+        </div>
+                    </body>
+	    </html>
+		]]>
+
+    </string>
+    <string name="our_team">Our Team</string>
+
+    <string name="select_lang">భాషను ఎంచుకోండి</string>
+
+    <string-array name="menu_item_array">
+        <item>మా గురించి</item>
+        <item>ఎందుకు మేము</item>
+        <item>వాస్తవం</item>
+        <item>ముహూర్తం</item>
+        <item>నిత్య పరియన శ్లోకాలు</item>
+        <item>భాషను మార్చండి</item>
+        <item>ఇతరములు</item>
+        <item>శీఘ్ర పరిచయం</item>
+    </string-array>
+
+
+    <string-array name="gallery_thumb_array" tools:ignore="InconsistentArrays">
+        <item>http://sumuhurtham.in/English/images/Thumbs/muhurtham-june.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/mail-muhurtham.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/muudu-mullu.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/cm.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/2.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/3.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/4.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/5.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/6.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/7.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/8.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/9.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/10.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/11.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/12.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/13.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/14.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/15.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/16.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/17.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/18.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/19.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/20.jpg</item>
+
+
+    </string-array>
+
+
+    <string-array name="gallery_large_img">
+
+        <item>http://sumuhurtham.in/English/images/Large/june-muhurtham.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/mail-muhurthams.jpg</item>
+        <item>http://sumuhurtham.in/images/Sumuhurtham-Advt-Enadu.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/CM%20Sanmanam%202018%20Ugadi.JPG</item>
+        <item>http://sumuhurtham.in/English/images/Large/1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/2.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/3.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/4.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/5.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/6.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/7.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/8.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/9.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/10.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/11.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/12.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/13.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/14.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/15.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/16.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/17.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/18.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/19.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/20.jpg</item>
+
+    </string-array>
+
+
+
+    <string name="about_us_page">
+         <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/mallanna.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:20px; font-weight:bold;"  >మా గురించి</div>
+
+            <div style="text-align:justify;">
+            మనమందరమూ కూడ పూర్వపుణ్య వశమున  ఉపాధులను  ఆశ్రయించి జన్మించి జీవించుచున్నాము. మనము జన్మించుటకు పూర్వమే మన జీవనము సిద్ధమై ఉన్నది. మన స్వబుద్ధితో అలోచించి, సన్మార్గమున నడిచే అవకాశము పురుషప్రయత్న రూపమున సార్వులకూ ఉన్నది. దానిని వినియేగించుకొని ప్రతిఒక్కరు శుభ సమయములందు సర్వ కర్మలను ఆచరించినచో అందరూ ధర్మవర్తనులు అగుదురు.
+      <br /> <br />
+     సనాతన వైదికకుటుంబంలో జన్మించి జ్ఞానముదయించినది మొదలు వేదము, ప్రాచీనవిద్యల పరిచయమును పొందియున్నాము. ఆ భగవంతుని అనుగ్రహము, మరియు జగదేక పండితులు,
+అపరసరస్వతీ అవతార స్వరూపులు, బ్రహ్మీభూతులు బ్రహ్మశ్రీ  “ఉప్పులూరి గణపతి శాస్త్రి”
+గారి ఆశీస్సులు సంపూర్ణముగా లభించినవి. శాస్త్రప్రయోజనము అందరికీ అందుబాటులో ఉండాలనే సదుద్దేశముతో ఈ ప్రయత్నము చేసినాము. “సర్వకర్మాణి సంత్యక్తుం నశక్యం దేహాధారిణా” అని చెప్పిన విధముగా మానవుడు సర్వకర్మలను విడిచి పెట్టుట అసాధ్యము. ప్రతివ్యక్తి ఏదోఒక కర్మను చేస్తూనే ఉండాలి. కనుక ఆకర్మను శాస్త్ర పరంగా శుభసమయములో చేసినచో ఐహిక, ఆము	ష్మిక సౌఖ్యములను పొందేదరని శాస్త్ర ప్రవచనము.
+ </div>
+
+
+            </div>
+        </body>
+	    </html>
+		]]>
+
+    </string>
+    <string name="about_us">మా గురించి</string>
+    <string name="why_us">ఎందుకు మేము</string>
+    <string name="the_fact_is">వాస్తవం</string>
+    <string name="slokas">నిత్య పరియన శ్లోకాలు</string>
+    <string name="others">ఇతరములు</string>
+
+
+    <string name="why_us_page">
+ <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/mallanna.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:20px; font-weight:bold;"  >ఎందుకు మేము</div>
+            <div style="text-align:center;">
+                   <strong style="color:#bb3536;">శ్రీరస్తు</strong><br /></div>
+ <div style="text-align:justify;">
+     మోక్షమంటే అత్యంత దుఃఖ నివృత్తిని, పునరావృతి రహితము అగు జన్మరాహిత్యాన్ని పొందడమే. అటువంటి మోక్షాన్ని (ముక్తి) పొందాలంటే బ్రహ్మజ్ఞానాన్ని అలవరచుకోవలసినదే. బ్రహ్మజ్ఞానం కావాలంటే భగవదనుగ్రహం, ఏకాగ్రత కావాలి. వాటికోసం ఉపాసన చెయ్యాలి. ఇవన్నీ చెయ్యడానికి  మన  శరీరాన్ని, ఇంద్రియములను, చిత్తమును  శుద్ధి  చేసుకొని ఆపస్తంబ, బోధాయనాది మహర్షులు శ్రౌత, గృహ్య, ధర్మ, సూత్రములను చెప్పారు. ప్రతి మనిషి యొక్క జీవనము వేదముతో నడవాలనీ, పైన  చెప్పిన విధముగా జన్మ పరంపరలో ఉన్నతిని పొందాలని సంస్కారములు అనెడి కొన్ని కర్మలను విధించినారు. చిత్తమును బాగుగా శోధించి, దానిని  ఆత్మ తత్త్వజ్ఞానమునకు అర్హముగాజేయు క్రియా విశేషములే ఈ సంస్కారములు. అవి గర్భాధానము, పుంసవనము, సీమంతోన్నయనము, జాతకర్మ, నామకరణము, అన్నప్రాశన, చౌలము, ఉపనయనము, వ్రత చతుష్టయము, గోదానము సమావర్తనము, వివాహము మొIIగు కర్మలై ఉన్నవి. వీటిలో గర్భాధానాది చౌలాంత సంస్కారములు శుక్ర, శోణిత దోషములను, అశుచి, మాతృ గర్భ మల సంసర్గాది దోషములను తొలగించును. ఉపనయనాది కర్మలు జీవుడు
+బ్రహ్మభూత  సమర్ధుడగుటకు కావలసిన యోగ్యతను కలిగించును.
+     <br />
+      <div style="text-align:center; color:#bb3536;">
+      <strong>శ్లోII చిత్ర కర్మ యథానేకైరంగైరున్మీల్యతే శనైఃI/<br />
+      బ్రాహ్మణ్యమపి తద్వత్స్యాత్ సంస్కారైర్విధి పూర్వకైఃII</strong><br />
+      </div>
+      <br />
+
+     ఒక బొమ్మను గీయదలచిన శిల్పి ముందుగా కాగితము మీద అక్కడక్కడ చిన్నచిన్న  గుర్తులను ఏర్పరచును. ఆపైన శిరఃపాణి పాదాది అవయవములకనుగుణమగునట్లు కొన్ని రేఖలచే కలుపును. ఆతరువాత వాటికి తగిన వస్త్రాభరణాద్యలంకార చిహ్నములను అమర్చును. పిమ్మట ఆ అవయవము లకు, అలంకారాదులకు శోభను కలిగించు వర్ణ విశేషములను చిత్రించును. ఇన్ని సంస్కారములు గావించిన పిదప ఆ బొమ్మను సుందరమైన ఆకారమును పొందిచూపరులకు ఆనందమును అందించును.ఈ న్యాయమునే సంస్కార విషయములలో అన్వయించుకోవాలని పరాశర మహర్షి సోదాహరణముగా చెప్పినారు. మంత్ర ద్రష్టలగు ఋషీశ్వరులు మహా మహిమాన్వితులు. బ్రాహ్మణత్వము, బ్రహ్మ జ్ఞానము అభివ్యక్తము గావించుటకు, ఆత్మ తత్వమును సాక్షాత్కరించుకుని మానవుడు కృతకృత్యుడగుటకు ఈ సంస్కారములను సాధానములుగా  చెప్పిరని  మనము ఎరుగవలసి ఉన్నది.
+
+      <br />
+      <br />
+                 అట్టి సంస్కారములను, సత్కర్మలను, అనుష్టించుటకు శృతి, స్మృతులు కాలాన్నిఆధారం చేసుకుని కొన్ని యోగములను చెప్పుచున్నవి. ఉదాహరణకు వివాహ విషయములో స్వాతీ నక్షత్రమందు కన్యకకు వివాహం చేయడం చాలా విశేషమని ఈవేదవాక్యములు చెప్పుచున్నవి.
+         <br />
+      <div style="text-align:center; color:#bb3536;">
+      <strong>మంII యాం కామయేత దుహితరం ప్రియాస్యాదితి I	<br />
+      తానిష్ట్యాయాం దద్యాత్ I 	<br />	ప్రియైవ భవతి I
+                              నేవతు పునరాగచ్చతి II </strong> <br />
+      </div>
+      <br />
+      ఈ నాకుమార్తె భర్తకు ఇష్టముగా సంచరించెడిది ఆగుగాక అని కోరుకునే తండ్రి స్వాతీనక్షత్రముగల  రోజున శుభలగ్నమందు వరుసకు ఇచ్చి వివాహము చేసినచో ఒకానొకప్పుడైననూ ఈకన్య పితృగృహమునకు రావలసిన అవసరముండదనియు, సకల సంపత్తులు తన గృహమునందే ఉన్నవని సంతృప్తి చెందియుండుననీయు చెప్పబడినది. అనగా ఆపత్సమయమందు కూడ పితృగృహమునకు వెళ్ళక భర్తగృహమందే ప్రేమతో జీవించునని తాత్పర్యము. అటువంటి స్వాతీనక్షత్రం ఏరోజున ఉన్నదో ఆ శుభసమయమును తెలుసుకోవాలంటే కాలం గురించి అవగాహన కలిగి ఉండాలి. కాల గణన అంతా జ్యోతిష శాస్త్ర  అధీనమై ఉన్నది.
+      <br />
+“జ్యోతిషామయనంచక్షుః “ అని యున్నందున వేదమునకు జ్యోతిశము కన్ను వంటిది. కళ్ళు లేకపోతే ఏమీలేదు. అంతా అగమ్యగోచరమే.స్కంధ త్రయాత్మకమైన  జ్యోతిష్య శాస్త్రములో ముహుర్త ప్రకరణము ఒకభాగము. ముహుర్తప్రకరణము ననుసరించి ప్రతికర్మకు అవసరమగు తిధి, వార్త, నక్షత్ర, లగ్నాదులు మాత్రమే ఉపకరించును. ఉదాహరణకు స్వాతీ నక్షత్రము వివాహామునకు మంచిదని, దానియందు గృహప్రవేశం జరిపించినచో అచిర కాలంలోనే ఆగగృహము అన్యాక్రాంతమగునని చెప్పబడుచున్నద. ఆవిధముగనే ప్రతిముహూర్తము తారాబలం చంద్రబలం కలిగి, పంచకరహితమైన ఉండవలయును. మరియు ప్రతి ముహూర్తము ఏకవింశతి మహాదోషములను విసర్జించి ఉండవలెను. “బ్రహ్మ వా  పరిహర్తుమత్ర సమర్థోన హి” సర్వ దోషములను పరిహరించుటకు బ్రహ్మగారు కూడ సమర్థుడు కాదని చెప్పిన విధముగా, గుణములు అధికముగా కలిగి, దోషములు స్వల్పముగా  ఉన్న ముహూర్తములు అందరికీ మంగళ ప్రదము గావించునని ఋషీశ్వరుల నిర్ణయం.
+</div>
+
+             </div>
+        </body>
+	    </html>
+		]]>
+    </string>
+
+    <string name="fact_web_page">
+
+        <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/mallanna.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:20px; font-weight:bold;"  >వాస్తవం</div>
+
+
+
+
+<div style="text-align:justify;">
+      ఒకమంచి శుభముహూర్త దినమును దైవజ్ఞులు నిర్ణియించిన రోజున మనము చేసుకోనలేక పోవుచున్నామంటే-అంతటి శుభ ముహూర్తములో మనకు చేసుకొనే యోగ్యత  లేకపోవడమేప్రథమ  కారణం.<br />
+      <br />
+      శుభముహూర్తమని మనము అనుకోనుచున్నాశాస్త్రరీత్యా నిర్వీర్యమైన ముహూర్తమయిననూ కూడా ఆ ముహూర్తములో చేసుకోలేము. ఇది రెండవ కారణం.<br />
+      <br />
+      ఒక కర్మను ఆరంభించునపుడు నీ అనుభవం, లోకానుభవం, శాస్త్రానుభవం ఒకటి కావాలి.<br />
+      <br />
+      మనోవాక్కాయకంగా, ఆధ్యాత్మిక, ఆధిదైవిక, ఆధిభౌతికముగా సంసిద్ధులై దేశ కాల స్థితి గతులను యోచించి ప్రతి కర్మనూ చేయవలసి ఉన్నది.
+       <br />
+     మనము ముహుర్తము  నిర్ణయించుకునేముందు గ్రహములు, ముహుర్త శాస్త్రముపై పూర్తి విశ్వాసము కలిగి ఉండాలి. మనము నిర్ణయించుకున్న ముహూర్తమునకు ఏదైనా నష్టము వాటిల్లునేమో అను లేశమాత్ర సంశయము కూడ లేక ముహుర్తా శాస్త్రముపై పూర్తి విశ్వాసముంచి ఆకర్మను ఆచరించాలి. ఎందుకంటే మనకు ఎంతో పెద్ద ఉపద్రవం కలగవలసి వచ్చినప్పుడు చిన్న నష్టము (ప్రాణము పోవలసిన పరిస్థితిలో కాలికో,చేతికో దెబ్బ తగినట్లు) తో మనము నిర్ణయించుకున్న ముహూర్త బలమువల్ల ఆ ఉపద్రవ దోషం ఎంతతగ్గినా మంచిదే కదా.
+     <br />
+      ఉదా : మా స్నేహితుని చెల్లెలు వివాహానికి ముహూర్తం నిర్ణయించారు. కొన్ని కారణాల వల్ల ఆ వివాహం ఆగిపోయింది. వాళ్ళందరూ చాలా బాధపడ్డారు. కొంత కాలానికి ఆ పెళ్ళికొడుకు చాలా చెడ్డవాడని తెలిసింది. వాళ్ళందరూ చాలా సంతోషించారు. దైవజ్ఞుడు ముహూర్తము నిర్ణయించువరకే, నిర్ణయించిన సుముహూర్త సమయములో జనులందరూ ఆచరించువరకే అర్హత. ఘటనా ఘటనలు ఆ భగవంతుని ఆధీనము లోనివి.
+      <br />
+      ఒకసారి ఓరాజుగారు పళ్ళు తింటూ ఉండగా కత్తివేటుకు పొరపాటున వేలుతెగింది. పక్కనే ఉన్న మంత్రి  “ అంతా మనమంచికే “ అన్నాడు. రాజుకు కోపం వచ్చింది. మంత్రికి బుద్ధి చెప్పా లను కున్నాడు. ఆతర్వాత రోజు వేటకు వెళ్ళినపుడు మంత్రిని ఒకబావిలోనికి తోసి “ ఏదిజరిగిన మనమంచికే “ అని వెటకారంగా నవ్వి వెళ్ళిపోయాడు.<br />
+      <br />
+      అంతలో రాజును ఒక ఆటవిక జాతివారు బంధించి, కాళికాదేవికి బలి ఇవ్వబోయారు. కాని అతని వేలిగాయాన్ని చూసి బలివ్వడానికి పనికి రాడని వదిలివేసారు. వేలు తెగినప్పుడు మంత్రి అన్న మాట రాజుగారికి గుర్తుకు వచ్చింది. వెంటనే మంత్రిని బావినుండి  వెలుపలికి తీసాడు. “నావేలిగాయం నాకు మంచిదే అయింది, కానీ నిన్ను నూతిలోకి నెట్టడం నీకు మంచి ఎలా అయింది ?” అనడిగాడు. అప్పుడు మంత్రి “ నన్ను నూతిలోనికి పడెయ్యకపోతే, మీతోబాటు  నన్నూ పట్టుకునేవాళ్ళు. మిమ్మల్ని వదిలేసి నన్ను బలిచ్చేవారు. అందుకే ఏ౦జరిగినా మనమంచికే అనుకోవాలి” అన్నాడు.
+      <br />
+      అందువల్ల ఏ౦జరిగినా అంతా మనమంచికే అనుకోవాలి గాని ముహూర్తమును, ముహుర్తశాస్త్రమును శంకించరాదు అట్లు చేసినచో దోషం సంభవించును.
+      <br />
+     జీవుడు అనాది, జివునితోబాటు దుఃఖo అనాది. ఆదుఃఖములో లేశమాత్రమైనా పోగొట్టాలానే ఆకాంక్షలో నిరంతరము లోకాక్షేమాన్ని కోరుకునే పరమకారుణ్యమూర్తులు, దయానిధులు అగు మన ఋషీశ్వరులు ముహూర్త శాస్త్రాన్ని చెప్పడం జరిగింది.
+      <br />
+  <div style="text-align:center;">
+  <p><strong style="font-size:15px;"><u>స్వస్తి</u></strong><strong><u> </u></strong><br />
+      <strong>స్వస్తి ప్రజాభ్యఃపరిపాలయంతాం న్యాయేన మార్గేణ మహీం మహీశాః</strong><br />
+      <strong>గోబ్రాహ్మణేభ్యః శుభమ  స్తునిత్యం లోకాస్సమస్తాఃసుఖినోభవంతు.</strong><br />
+      <strong>కాలేవర్షతు పర్జన్యః పృథివీ సస్య శాలినీ</strong><br />
+      <strong>దేశోయం క్షోభరహితో బ్రాహ్మణాస్సంతు నిర్భయాః</strong><br />
+      <strong>అపుత్రాఃపుత్రిణస్సంతు పుత్రిణస్సంతు పౌత్రిణః  </strong><br />
+      <strong>అధనాస్సధనాస్సంతు జీవంతు శరదాంశతం</strong><br />
+    <strong style="font-size:15px;"><u>ఓం శాంతిఃశాంతిఃశాంతిః </u></strong></p>
+  <br />
+
+
+  </div>
+            </div>
+        </body>
+	    </html>
+		]]>
+    </string>
+    <string name="other_txt_one">లక్ష్మి గణపతి వేదిక్ ఫౌండేషన్</string>
+    <string name="other_txt_two">హరిప్రియ మ్యారేజ్ సర్వీస్, అన్నవరం.</string>
+    <string name="other_txt_three">వివాహ ఆహ్వాన కార్డు</string>
+    <string name="other_txt_four">గృహ ప్రవేశము కార్డు నమూనా</string>
+    <string name="other_txt_five">ఉపనయన కార్డు నమూనా</string>
+    <string name="other_txt_six">అన్నవరం</string>
+    <string name="other_txt_seven">దేవాలయాలు</string>
+    <string name="other_txt_eight">షిర్డీ సాయి ఆలయం</string>
+    <string name="quick">శీఘ్ర పరిచయం</string>
+
+
+    <string-array name="sloks_array">
+        <item>1. వ్యక్తిగత సమస్యలకు</item>
+        <item>2. సత్ప్రవర్తన కలుగుటకు</item>
+        <item>3. కుటుంబ సమస్యలకు</item>
+        <item>4. ధనాభివృధికి</item>
+        <item>5. సోదర సయోధ్యకు</item>
+        <item>6. సేవక జన సహకారమునకు</item>
+        <item>7. మతిభ్రమణలు తొలగించుటకు  </item>
+        <item>8. భూ సంపాదనకు</item>
+        <item>9. విద్యాభివృద్ధికి</item>
+        <item>10. ఉన్నత విద్యకు</item>
+        <item>11. బంధు సౌఖ్యమునకు</item>
+        <item>12. అధికారుల అనుగ్రహము కొరకు</item>
+        <item>13. ఉత్తమ వాహనమునకు</item>
+        <item>14. సంతానమునకు</item>
+        <item>15. మనశాంతికి</item>
+        <item>16. స్నేహానుకూలతకు</item>
+        <item>17. శత్రు భాధలు తొలగుటకు  </item>
+        <item>18. ఋణములు తినుటకు</item>
+        <item>19. రోగములు లేకుండుటకు</item>
+        <item>20. ఆయుర్వృద్ధికి</item>
+        <item>21. వంశానుగత ఆస్తులకు</item>
+        <item>22. ఉద్యోగ ప్రాప్తికి</item>
+        <item>23. ఉన్నత ఉద్యోగము కొరకు</item>
+        <item>24. వ్యాపార లాభమునకు </item>
+        <item>25. అన్ని రంగముల విజయమునకు</item>
+        <item>26. విదేశీ ప్రయాణములు అనుకూలించుటకు</item>
+        <item>27. వివాహము కొరకు</item>
+        <item>28. భార్య భర్త అనురాగము కొరకు </item>
+        <item>29. నరగోష తొలగుటకు </item>
+        <item>30. భూత, ప్రేత పిశాచాది భయములు పోవుటకు</item>
+        <item>31. ఇంటిలో దోషములు పోవుటకు</item>
+        <item>32. వ్యాపారములో అధిక లాభము కొరకు</item>
+        <item>33. జన వశీకరణమునకు </item>
+        <item>34. తెలియని భాధలు సమస్యల కొరకు</item>
+        <item>35. పిల్లలు తల్లి తండ్రుల మాట వినుటకు</item>
+        <item>36. సుఖప్రసవమునకు</item>
+        <item>37. అభిచారాది చెడు ప్రయోగ దోషములు పోవుటకు</item>
+        <item>38. వ్యవహార దక్షత కలుగుటకు</item>
+        <item>39. కార్యసాఫల్యమునకు</item>
+        <item>40. ఙ్ఞాపక శక్తి పెరుగుటకు</item>
+        <item>41. పరీక్షలలో ఉతీర్ణులగుటకు</item>
+        <item>42. ప్రేమజీవనం ఫలించుటకు</item>
+        <item>43. ఆదాయపు పన్ను, ఆడిట్, కోర్టు వ్యవహరములలో జయం కొరకు</item>
+        <item>44. వ్యవసాయ లాభమునకు</item>
+        <item>45. మధ్యవర్తిత్వమునకు</item>
+        <item>46. చెడ్డకలల నివారణకు</item>
+        <item>47. గ్రహదోష నివారణకు </item>
+        <item>48. నిష్కామ కర్మాచరణకు</item>
+        <item>49. ప్రపంచశాంతి కొరకు</item>
+        <item>50. సర్వోపద్రవ నివారణకు </item>
+        <item>51. సువృష్టి కొరకు</item>
+        <item>52. ప్రకృతి వైపరీత్యములు తొలగుటకు</item>
+        <item>53. కన్యకలు రక్షణ కొరకు</item>
+        <item>54. స్త్రీల సౌభాగ్యము కొరకు </item>
+        <item>55. గాయత్ర్యాది  సంద్యవందనమునకు</item>
+        <item>56. సద్భుద్ది కలుగుటకు</item>
+        <item>57. దొంగల భయము లేకుండుటకు</item>
+        <item>58. తలచిన కార్యములు నెరవేరుటకు</item>
+        <item>59. బాలారిష్టములకు </item>
+        <item>60. స్థిరాస్థులు వృద్ధి అగుటకు</item>
+        <item>61. సాహస కార్యములు చేయుటకు</item>
+        <item>62. వాక్సిద్ధి కలుగుటకు</item>
+        <item>63. నేత్ర, శిరో రోగములకు</item>
+        <item>64. హృద్రోగ నివారణకు</item>
+        <item>65. తీర్ధయాత్రలకు</item>
+        <item>66. స్వశక్తీ నిలబడుటకు</item>
+        <item>67. క్రోధ, ఆవేశములు అణుగుటకు</item>
+        <item>68. సర్వపాప పరిహారమునకు</item>
+        <item>69. గృహయోగము కలుగుటకు</item>
+        <item>70. స్థలములాభివృధి కొరకు  </item>
+        <item>71. తల్లికి ఆరోగ్యము కలుగుటకు</item>
+        <item>72. సత్ శీలతకు</item>
+        <item>73. పశు సంపదకు </item>
+        <item>74. మెడలు, మిద్దెలు సంపాదించుటకు</item>
+        <item>75. మంత్రసిద్ధి కొరకు</item>
+        <item>76. ప్రజ్ఞావంతుడగుటకు</item>
+        <item>77. భవిష్యత్తు శుభకరమగుటకు</item>
+        <item>78. పాండిత్య ప్రతిభకు</item>
+        <item>79. ఉపాసన దేవత సిద్ధి కొరకు</item>
+        <item>80. వ్రణములు, కంతి బాధలకు</item>
+        <item>81. ధీర్ఘ వ్యాధుల నివారణకు</item>
+        <item>82. మహా భయాన్ని పోగొట్టుటకు</item>
+        <item>83. మతుల, స్ఫోటకము నివారణకు </item>
+        <item>84. పరాభవములు నిర్ములనమునకు</item>
+        <item>85. నీలాపనిందలు తొలగుటకు</item>
+        <item>86. కలహములు, గొడవలు, ఉపసమనమునకు </item>
+        <item>87. విపత్తులను పోగొట్టుటకు</item>
+        <item>88. ప్రతిబంధకములు తొలగుటకు</item>
+        <item>89. తండ్రి ఆరోగ్యము కొరకు</item>
+        <item>90. తపశ్శక్తి ఫలించుటకు</item>
+        <item>91. దానధర్మములు యోగ్యత కొరకు</item>
+        <item>92. పురుషత్వము, వీర్యవృద్ధి కొరకు</item>
+        <item>93. వైదిక మతానుయాయులకు</item>
+        <item>94. సత్కర్మాచరణకు</item>
+        <item>95. చెడు తలంపులు తొలగుటకు</item>
+        <item>96. చెడు అభిప్రాయముల నివారణకు</item>
+        <item>97. మొదటి కలయికలు అనుకూలించుటకు</item>
+        <item>98. ఫ్యాక్టరీలలో దోష నివారణకు</item>
+        <item>99. మనకు వచ్చిన అవకాశములను నిలబెట్టుకొనుటకు</item>
+        <item>100. దుష్ట శిక్షణ, శిష్ట రక్షణ కొరకు</item>
+        <item>101. మన అభిప్రాయములను ఎదుటివారు గౌరవించుటకు </item>
+        <item>102. అనుకూలవతియగు భార్య కొరకు</item>
+        <item>103. అనుకూలవంతుడగు భర్త కొరకు</item>
+        <item>104. భక్తిభావము పెంపొందుటకు </item>
+        <item>105. గురుదేవుల అనుగ్రహమునకు</item>
+        <item>106. పెద్దల మన్ననలు పొందుటకు</item>
+        <item>107. అష్టై శ్వర్యములు కలుగుటకు</item>
+        <item>108. సకల భోగభాగ్యములకు</item>
+    </string-array>
+
+
+
+    <string-array name="other_contact_thumb">
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/laxmi_gana.JPG</item>
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/hari.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/pelli.JPG</item>
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/gruhapravesham.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/upanayanam.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/ll.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/tirumala.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/sai_baba.jpg</item>
+
+    </string-array>
+
+
+    <string-array name="other_contact_original">
+        <item>http://sumuhurtham.in/Telugu/images/Large/laxmi_gana.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Thumbs/hari.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Large/pelli.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Large/gruhapravesha.jpg</item>
+        <item>http://sumuhurtham.in/Telugu/images/Large/upanayana.jpg</item>
+        <item>http://www.annavaram.org/</item>
+        <item>http://www.templenet.com/</item>
+        <item>http://www.shirdisaitemple.com/</item>
+    </string-array>
+
+
+    <string name="your_name">మీ పేరు :</string>
+    <string name="email">ఇ-మెయిల్ :</string>
+    <string name="moblie_number">మొబైల్ నంబరు :</string>
+    <string name="query">ప్రశ్న :</string>
+    <string name="submit_txt">సబ్మిట్</string>
+
+    <string name="muhurtham_titles">మీకు కావలసిన ముహూర్తమును క్లిక్ చేయండి </string>
+    <string name="agriculture_muhurtham">వ్యవసాయ ముహుర్తములు</string>
+
+    <string-array name="normal_muhurthm_list" >
+        <item>1. గర్భాదానము</item>
+        <item>2. పుంసవనము</item>
+        <item>3. సీమంతోన్నయనము</item>
+        <item>4. జాతకర్మ</item>
+        <item>5. నామకరణము</item>
+        <item>6. అన్నప్రాశన</item>
+        <item>7. చౌలము</item>
+        <item>8. ఉపనయనము</item>
+        <item>9. ప్రతచతుష్టయము</item>
+        <item>10.గోదానము</item>
+        <item>11.సమావర్తనము</item>
+        <item>12.వివాహము</item>
+        <item>13.విగ్నేశ్వరుని మీద కట్టు</item>
+        <item>14.పెండ్లికుమారుని, కుమార్తెను చేయుట</item>
+        <item>15.నవవధూ ప్రవేశము</item>
+        <item>16.గాజులు పెట్టుటకు</item>
+        <item>17.నిశ్చయ తాంబూలములకు</item>
+        <item>18.దత్తత స్వీకారమునకు</item>
+        <item>19.గర్భవతిని పురిటి ఇంటికి తీసుకువచ్చుటకు</item>
+        <item>20.మాత శిశువులను అత్తవారింటికి పంపుటకు</item>
+        <item>21.శిశువులను ఉయ్యాలలో వేయుటకు</item>
+        <item>22.స్త్రీలు ఆభరణములు ధరించుటకు</item>
+        <item>23.గృహారంభమునకు</item>
+        <item>24.గృహప్రవేశమునకు</item>
+        <item>25.గృహాపకారణ వస్తువులకు</item>
+        <item>26.కొత్త వాహనములు ఎక్కుటకు</item>
+        <item>27.నూతన వ్యాపారమునకు</item>
+        <item>28.ఉద్యోగములో ప్రవేశించుటకు</item>
+        <item>29.విద్యారంభమునకు</item>
+        <item>30.శస్త్ర చికిత్సకు</item>
+        <item>31.సేవకులను నియమించుటకు</item>
+        <item>32.రాజకీయ ప్రవేశమునకు</item>
+        <item>33.సినిమా ఆరంభమునకు</item>
+        <item>34.సినిమా విడుదలకు</item>
+        <item>35.ప్రయాణమునకు</item>
+        <item>36.దేవతా ప్రతిష్ఠాదులకు</item>
+        <item>37.దరఖాస్తు పెట్టుకొనుటకు</item>
+        <item>38.కోర్టులో కేసు వేయుటకు</item>
+        <item>39.నూతన వస్త్రధారణకు</item>
+        <item>40.నూతన సంవత్సర (అకౌంట్స్) పుస్తక పూజకు</item>
+        <item>41.అద్దె ప్రవేశించుటకు</item>
+        <item>42.ఒప్పందములు కుదుర్చుకొనుటకు</item>
+        <item>43.ఒప్పందములు ఖాయపరుచుటకు</item>
+        <item>44.అప్పు ఇచ్చుటకు</item>
+        <item>45.అప్పు పుచ్చుకొనుటకు</item>
+    </string-array>
+
+    <string-array name="agriculture_muhrtham_list">
+        <item>1. భూమిలో కృషికొరకు ప్రవేశించుటకు</item>
+        <item>2. దుక్కి దున్నుటకు</item>
+        <item>3. విత్తనములు చల్లుటకు</item>
+        <item>4. పంట పొలమునుండి తెచ్చుటకు</item>
+        <item>5. అరటి, మామిడి మొక్కలు వేయుటకు</item>
+        <item>6. ఖర్జుర, పోక, కొబ్బరి తోటలు వేయుట</item>
+        <item>7. కంది, శనగ, పెసర, మినుము, గోధుమ విత్తనములు చల్లుటకు</item>
+        <item>8. జామి, బత్తాయి, నిమ్మ, దానిమ్మ పంటలకు</item>
+        <item>9. గుమ్మడి, చిక్కుడు, పోట్ల, కాకర, బీర, దోసపాదులకు</item>
+        <item>10.పూల మొక్కలకు</item>
+        <item>11.పశువులను కొనుటకు</item>
+        <item>12.పశువులను అమ్ముటకు</item>
+        <item>13.చేపల చెరువులకు</item>
+        <item>14.రొయ్య విత్తనం (సీడ్) చేప పిల్లలు చెరువులో వేయుటకు</item>
+        <item>15.బొట్లు, పడవల ప్రయాణమునకు</item>
+    </string-array>
+
+
+
+
+    <string name="name">పేరు </string>
+    <string name="sur_name">ఇంటి పేరు </string>
+    <string name="gender">లింగము :</string>
+    <string-array name="gender_array">
+        <item>-- Select Item --</item>
+        <item>మగ</item>
+        <item>ఆడ</item>
+    </string-array>
+    <string name="age">వయస్సు :</string>
+
+    <string-array name="age_array">
+        <item>-- Select Item --</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <string name="star">నక్షత్రము :</string>
+
+    <string-array name="star_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>అశ్విని</item>
+        <item>భరణి</item>
+        <item>కృత్తిక</item>
+        <item>రోహిణి</item>
+        <item>మృగశిర</item>
+        <item>ఆరుద్ర</item>
+        <item>పునర్వసు</item>
+        <item>పుష్యమి</item>
+        <item>ఆశ్రేశ</item>
+        <item>మఖ</item>
+        <item>పుబ్బ</item>
+        <item>ఉత్తర</item>
+        <item>హస్త</item>
+        <item>చిత్త</item>
+        <item>స్వాతి</item>
+        <item>విశాఖ</item>
+        <item>అనురాధ</item>
+        <item>జ్యేష్ట</item>
+        <item>మూల</item>
+        <item>పూర్వాషాడ</item>
+        <item>ఉత్తరాషాడ</item>
+        <item>శ్రవణం</item>
+        <item>ధనిష్ఠ</item>
+        <item>శతభిషం</item>
+        <item>పూర్వాభాద్ర</item>
+        <item>ఉత్తరాభాద్ర</item>
+        <item>రేవతి</item>
+    </string-array>
+
+    <string name="rasi">రాశి :</string>
+    <string-array name="rasi_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>మేషం</item>
+        <item>వృషభం</item>
+        <item>మిథునం</item>
+        <item>కర్కాటకం</item>
+        <item>సింహం</item>
+        <item>కన్య</item>
+        <item>తుల</item>
+        <item>వృశ్చికం</item>
+        <item>ధనుస్సు</item>
+        <item>మకరం</item>
+        <item>కుంభం</item>
+        <item>మీనం</item>
+    </string-array>
+
+    <string name="paddam">పాదము :</string>
+
+    <string-array name="paddam_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+    </string-array>
+    <string name="place_of_muhurtham">ముహూర్త స్థలము </string>
+    <string name="country">దేశం :</string>
+
+    <string name="state">రాష్ట్రం :</string>
+    <string name="required_muhurtham">అవసరమగు ముహూర్తము </string>
+    <string name="prefered_months">అవసరమగు నెల :</string>
+    <string-array name="prefered_month_array">
+        <item>-- Select Item --</item>
+        <item>జనవరి</item>
+        <item>పిబ్రవరి</item>
+        <item>మార్చి</item>
+        <item>ఏప్రిల్</item>
+        <item>మే</item>
+        <item>జూన్</item>
+        <item>జూలై</item>
+        <item>ఆగష్టు</item>
+        <item>సెప్టెంబర్ </item>
+        <item>అక్టోబర్ </item>
+        <item>నవంబర్</item>
+        <item>డిసెంబర్</item>
+
+    </string-array>
+    <string name="prefered_week">అవసరమగు వారము :
+    </string>
+    <string-array name="prefered_week_array">
+        <item>-- Select Item --</item>
+        <item>మొదటి వారము</item>
+        <item>రెండవ వారము </item>
+        <item>మూడో వారము </item>
+        <item>నాల్గవ వారము </item>
+
+    </string-array>
+    <string name="your_email_id">మీయొక్క ఈమెయిలు </string>
+    <string name="writer">వ్రాయుటకు </string>
+    <string name="content">జన్మాంతరకృత  పూర్వపుణ్యవశమున ఈ ముహూర్తము నాకు లభించినది. నేను కోరిన విధముగా నిర్ణయించిన ఈ ముహూర్తము యొక్క  శుభా శుభములకు పూర్తిగా నేనే కారకుడనై ఉన్నాను.</string>
+
+
+    <string name="birth_star">పుట్టిన నక్షత్రము :</string>
+    <string name="father_name">తండ్రి పేరు  </string>
+    <string name="mother_name">తల్లి పేరు  </string>
+    <string name="near_town">సమీప పట్టణం</string>
+
+    <string name="wife_name">భార్య పేరు </string>
+    <string name="husband_name">భర్త పేరు </string>
+
+
+    <string name="bride_groom">వరుని పేరు  </string>
+    <string name="bride">వధువు పేరు  </string>
+
+    <string name="name_of_child">దత్తపుత్రుని పేరు </string>
+    <string name="father_names">దత్తత తండ్రి పేరు </string>
+    <string name="mother_names">దత్తత తల్లి పేరు </string>
+
+    <string name="child_name">శిశువు పేరు </string>
+
+    <string name="owner_name">Owner Name :</string>
+    <string name="servant">Servant Name :</string>
+
+</resources>

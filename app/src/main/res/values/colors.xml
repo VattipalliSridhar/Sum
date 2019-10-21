@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d8841</color>
+    <color name="colorPrimaryDark">#1d8841</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="background_color">#EDEDED</color>
+    <color name="form_background_color">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="list_background">#fe9d22</color>
+    <color name="list_background_pressed">#4D9933</color>
+    <color name="orange">#e99d02</color>
+    <color name="blue">#01A7E5</color>
+    <color name="light_green">#16cdd3</color>
+    <color name="red">#FF0000</color>
+    <color name="transperent">#00FFFFFF</color>
+</resources>

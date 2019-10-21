@@ -1,0 +1,643 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sumuhurtham</string>
+
+
+    <string name="select_telugu">తెలుగు</string>
+    <string name="select_english">English</string>
+
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="home">Home</string>
+    <string name="muhurtham">Muhurtham</string>
+    <string name="gallery">Gallery</string>
+    <string name="contact">Contact</string>
+
+
+    <string name="home_page">
+
+         <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/OpenSans-Regular.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center; font-size:13px; color:#bb3536;">
+            <strong>(Mantra)- Kala muhuthaah kashthaschahoratrascha sarvashaha/
+            	                  <br />
+      Arthamasa masa ruthuvasamvastrascha kalpantam// </strong><br />
+      </div>
+
+       <br />
+      <div style="text-align:justify;">
+      Time embodies God, as everyone proposes. Whatever work we plan to start has to be completed without any hurdles and its aim achieved. For this, everyone chooses good / auspicious time. All countries and all religions had have their own concepts of time. Many stories are popular in many countries where ancient civilizations flourished and whre there was an in-depth study of Astronomy. Our country, India had studied and researched deeply and made auspicious time known in the form of and through Astrology. Through this Astrology, we get good results. “When God is realized through time many great qualities are revealed through time”. These revelations are known as good / auspicious through time. A wink of an eye, a dream whole day, whole night, fortnight, a month, a half year and finally a year; these are parts of time.
+        <br />
+        <br />
+      The precise measurement of time has taken into consideration many things like kalpas, Swayambhuva manvantaras, yugas (ages) years ayanamsa (Six-month duration) months, sukla, krishna fortnights, weeks, day &amp; nights and last but not the least it takes into account even a wink of an eye.<br />
+      <br />
+      <strong>The book Muhurtha Darpanam discusses “Upanayana chapter”. It says…</strong><br />
+      <br />
+      <div style="text-align:center; color:#bb3536;"><strong>
+      (Slo)- Lagnesitah karmani Devapujyo bhavedravi sseetakara  sshubhamse/         <br />
+      Hrudistha shastranyapi vardhayanti priyakshanenena yathendriyani//      </strong></div>
+      <br />
+      The above “sloka” tells us that the wisdom as well as inner most quetiency of the child (Vatuvu) will explore, if we perform Upanayanam in the above mentioned time, the child (Vatuvu) will get extreme delight and well beingness which are similar to the ultimate happiness we get during the occasions like marriages, jatara,utsavams etc.
+
+       <br />
+       <br />
+      Therefore, let us perform good rituals in auspicious times and deserve to get precious wealth and comforts which are rendered to us by our Vedas and ancient sages.
+       <br /> <br />
+
+      </div>
+
+               </body>
+	    </html>
+		]]>
+
+
+    </string>
+
+    <string name="contact_page">
+         <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/OpenSans-Regular.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+
+                    </body>
+	    </html>
+		]]>
+    </string>
+    <string name="our_team">Our Team</string>
+
+    <string name="select_lang">Select Language</string>
+
+    <string-array name="menu_item_array">
+        <item>About Us</item>
+        <item>Why Us</item>
+        <item>The Fact is</item>
+        <item>Muhurtham</item>
+        <item>Get Slokas</item>
+        <item>Change Language</item>
+        <item>Others</item>
+        <item>Quick Contact</item>
+    </string-array>
+
+    <string-array name="gallery_thumb_array">
+        <item>http://sumuhurtham.in/English/images/Thumbs/muhurtham-june.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/mail-muhurtham.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/muudu-mullu.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/cm.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/2.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/3.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/4.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/5.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/6.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/7.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/8.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/9.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/10.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/11.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/12.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/13.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/14.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/15.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/16.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/17.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/18.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/19.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/20.jpg</item>
+
+    </string-array>
+
+    <string-array name="gallery_large_img">
+
+        <item>http://sumuhurtham.in/English/images/Large/june-muhurtham.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/mail-muhurthams.jpg</item>
+        <item>http://sumuhurtham.in/images/Sumuhurtham-Advt-Enadu.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/CM%20Sanmanam%202018%20Ugadi.JPG</item>
+        <item>http://sumuhurtham.in/English/images/Large/1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/2.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/3.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/4.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/5.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/6.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/7.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/8.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/9.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/10.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/11.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/12.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/13.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/14.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/15.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/16.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/17.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/18.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/19.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/20.jpg</item>
+
+    </string-array>
+
+
+    <string name="about_us_page">
+
+         <![CDATA[
+        <html>
+            <head>
+            <style type=\"text/css\">
+            @font-face {font-family: MyFont;src: url(\"file:///android_asset/font/OpenSans-Regular.ttf\")}
+            body
+            {font-family: MyFont;font-size: medium;text-align: justify;}
+            </style>
+            </head>
+            <body>
+            <div style="text-align:center;">
+            <div style="color:#4CAF50; font-size:20px; font-weight:bold;"  >About Us</div>
+            </div>
+            </div>
+            </div>
+        </body>
+	    </html>
+		]]>
+
+
+
+    </string>
+    <string name="about_us">About Us</string>
+    <string name="why_us">Why Us</string>
+
+
+    <string name="why_us_page">
+
+    </string>
+    <string name="the_fact_is">The Fact is</string>
+
+
+    <string name="fact_web_page">
+
+    </string>
+    <string name="slokas">Slokas</string>
+    <string name="others">Others</string>
+    <string name="other_txt_one">Lakshmi Ganapathi Vedic Foundation</string>
+    <string name="other_txt_two">Haripriya Marriage Services,Annavaram.</string>
+    <string name="other_txt_three">Wedding  Model Card</string>
+    <string name="other_txt_four">Gruha pravesham Card Model</string>
+    <string name="other_txt_five">Upanayanam Card Model</string>
+    <string name="other_txt_six">Annavaram</string>
+    <string name="other_txt_seven">Temples</string>
+    <string name="other_txt_eight">Shirdi Sai Temple</string>
+    <string name="quick">quick</string>
+
+
+    <string-array name="sloks_array">
+        <item>1.PERSONAL PROBLEMS </item>
+        <item>2.FOR WELL CHARACTER </item>
+        <item>3.FAMILY PROBLEMS </item>
+        <item>4.GROWTH OF WEALTH </item>
+        <item>5.SIBLINGS WELL-BEINGNESS </item>
+        <item>6.WORKERS COOPERATION </item>
+        <item>7.TO WARD OFF MENTAL DELUSIONS/DISTURBANCES </item>
+        <item>8.LAND ACQUISITION </item>
+        <item>9.EDUCATIONAL GROWTH </item>
+        <item>10.HIGHER EDUCATIONAL GRWOTH </item>
+        <item>11.WELL BEINGNESS OF KITHEIKIN </item>
+        <item>12.FAVOURABLENESS OF HIGHER OFFICIALS </item>
+        <item>13.TO GET A GOOD VEHICLE </item>
+        <item>14.FOR PROGONY </item>
+        <item>15.MENTAL PEACEFULNESS OR EQUANAMITY OF MIND </item>
+        <item>16.FOR BETTER FRIENDSHIP </item>
+        <item>17.TO WARD-OFF ENEMIES </item>
+        <item>18.TO CLEAR THE DEBTS </item>
+        <item>19.TO WARD OFF DISEASES </item>
+        <item>20.FOR THE GRWOTH OF LIFE EXPECTANCY </item>
+        <item>21.FOR ANCESTRAL ASSETS </item>
+        <item>22.FOR EMPLOYMENT </item>
+        <item>23.FOR THE GROWTH IN CAREER </item>
+        <item>24.FOR SUCCESSFUL BUSINESS </item>
+        <item>25.FOR SUCCESS IN ALL FIELDS </item>
+        <item>26.FOR EASY ACCESS OF FOREIGN TOURS </item>
+        <item>27.FOR MARRIAGE RELATED </item>
+        <item>28.FOR AFFECTION BETWEEN WIFE AND HUSBAND </item>
+        <item>29.TO WARD OFF EVIL EYE OF HUMANS </item>
+        <item>30.TO WARD OFF THE FEAR OF GHOSTS,EVILS,DEMONS </item>
+        <item>31.TO WARD OFF ILL EFFECTS OF DEFECTIVE HOME/HOUSE/RESIDENCE </item>
+        <item>32.PROFIT MAKING IN BUSINESS </item>
+        <item>33.TO GET PEOPLES ATTRACTION </item>
+        <item>34.TO WARD OFF UNTOLD SUFFERINGS </item>
+        <item>35.TO MAKE CHILDREN ATTENTIVE TO THEIR PARENTS </item>
+        <item>36.TO EASY DELIVERY /CONFINEMENT </item>
+        <item>37.TO GET REMEDY OF EVIL SPELLS/ABICHARAS </item>
+        <item>38.TO GET EFFECTIVE ADMINISTRATIVE CAPABILITY </item>
+        <item>39.TO GET SUCCEES IN AN ENDEAVOUR </item>
+        <item>40.TO DEVELOP GOOD CONCENTRATION/MEMORY </item>
+        <item>41.TO GET THROUGH EXAMINATIONS </item>
+        <item>42.TO SUCCEED IN LOVE-LIFE </item>
+        <item>43.TO SUCCEED IN INCOME-TAX, AUDIT AND LEGAL ISSUES </item>
+        <item>44.FOR AGRICULTURE DEVOLOPMENT </item>
+        <item>45.FOR EFFECTIVE MEDIATION/ARBITRATION </item>
+        <item>46.TO PREVENT BAD DREAMS </item>
+        <item>47.TO PREVENT PLANETARY AILMENTS </item>
+        <item>48.TO GET ON UNSELFISH WORK /NISKAMA KARMA </item>
+        <item>49.FOR WORLD PEACE </item>
+        <item>50.TO PREVENT ALL TROUBLES/AILMENTS </item>
+        <item>51.TO HAVE SUFFICIENT RAINS </item>
+        <item>52.TO PREVENT NATURAL CALAMITIES </item>
+        <item>53.FOR THE SAFETY OF VIRGINS </item>
+        <item>54.FOR THE HAPPY STATE OF WOMANHOOD </item>
+        <item>55.FOR PEOPLE WHO WORSHIP GAYATRI AND SUN </item>
+        <item>56.TO HAVE GOOD INTUITION </item>
+        <item>57.TO PREVENT THE FEAR OF THEIVES </item>
+        <item>58.TO SUCCEED IN ASPIRING ACTS </item>
+        <item>59.TO PREVENT INFANT DISEASES </item>
+        <item>60.FOR THE GROWTH OF FIXED ASSETS </item>
+        <item>61.TO ENDEAVOUR ADVENTUROUS ACTS </item>
+        <item>62.TO HAVE PURITY OF SPEECH</item>
+        <item>63.FOR THE DISEASES PERTAINING TO EYES AND HAIR </item>
+        <item>64.TO PREVENT HEART DISEASES </item>
+        <item>65.TO HAVE BLISSFUL PILGRIMAGE </item>
+        <item>66.TO STAND ON ONES FEET </item>
+        <item>67.TO SURPASS EMOTIONS AND ANGER </item>
+        <item>68.TO ERADICATE ALL TYPES OF SINS </item>
+        <item>69.TO HAVE A OWNERSHIP OF A HOUSE </item>
+        <item>70.FOR THE DEVELOPMENT OF FLATS/SITES </item>
+        <item>71.FOR GOOD HEALTH OF ONES MOTHER </item>
+        <item>72.TO HAVE GOOD CHARACTER </item>
+        <item>73.TO HAVE GOOD CATTLE WEALTH </item>
+        <item>74.TO GET BUILDINGS AND MANSIONS </item>
+        <item>75.TO GET EFFICACY MANTARAS </item>
+        <item>76.TO BECOME INTELLIGENT PERSON/GENIUS </item>
+        <item>77.TO HAVE OPTIMISTIC FUTURE </item>
+        <item>78.TO GET ERUDITION </item>
+        <item>79.FOR THE BLESSINGS OF ONES OWN GOD </item>
+        <item>80.FOR THE PROBLEMS OF TUMOURS AND MALIGNANT SWELLINGS </item>
+        <item>81.FOR THE PREVENTION OF CHRONIC DISEASES </item>
+        <item>82.TO WARD OFF EXTREME FEAR </item>
+        <item>83.TO WARD OFF CHICKEN-FOX AND SMALL-FOX DISEASES </item>
+        <item>84.TO WARD OFF ABASHEDNESS/SHAME </item>
+        <item>85.TO WARD OFF ALLEGATIONS/RUMOURS </item>
+        <item>86.TO GET SOLACE FROM QUARRELS,STRIFES </item>
+        <item>87.TO WARD OFF CALAMITIES </item>
+        <item>88.TO REMOVE IMPEDIMENTS </item>
+        <item>89.FOR THE HEALTH OF FATHER </item>
+        <item>90.TO GET FRUITFULNESS IN ONES PENANCE </item>
+        <item>91.FOR THE ELIGIBILITY OF CHARITY </item>
+        <item>92.TO GET MANLINESS </item>
+        <item>93.FOR VEDIC AND TRADITONAL ASPIRANTS </item>
+        <item>94.FOR RIGHTEOUSNESS </item>
+        <item>95.FOR THE PREVENTION OF EVIL THOUGHTS </item>
+        <item>96.FOR THE PREVENTION OF EVIL OPINIONS </item>
+        <item>97.FOR THE SUCCESS OF FIRST MEETINGS </item>
+        <item>98.TO WARD OFF DEFECTS IN A FACTORY </item>
+        <item>99.TO GRAB THE OPPORTUNIES </item>
+        <item>100.FOR THE PUNISHMENT OF EVIL-DOERS AND THE PROTECTION OF THE RIGHTEOUSNESS </item>
+        <item>101.TO MAKE OTHERS RESPECT OUR OPINIONS </item>
+        <item>102.FOR COMPATIBLE WIFE </item>
+        <item>103.FOR COMPATIBLE HUSBAND </item>
+        <item>104.FOR THE DEVELOPMENT OF FEELING OF WORSHIP </item>
+        <item>105.TO GET THE BLESSINGS OF ONES TEACHER/GURU </item>
+        <item>106.TO GET THE BLESSINGS OF ELDERS </item>
+        <item>107.TO GET EIGHT-TYPES OF WEALTH </item>
+        <item>108.TO GET ALL TYPES OF ENRICHMENTS</item>
+    </string-array>
+
+
+    <string-array name="other_contact_thumb">
+        <item>http://sumuhurtham.in/English/images/Thumbs/vedic.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/temple.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/wedding.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/gruhapravesam.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/upanayanam.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/ll.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/tirumala.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Thumbs/sai_baba.jpg</item>
+    </string-array>
+
+
+    <string-array name="other_contact_original">
+        <item>http://sumuhurtham.in/English/images/Large/Vedic_Foundation1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/haripriya.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/marr.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/gruhapravesam1.jpg</item>
+        <item>http://sumuhurtham.in/English/images/Large/upanayanam1.jpg</item>
+        <item>http://www.annavaram.org/</item>
+        <item>http://www.templenet.com/</item>
+        <item>http://www.shirdisaitemple.com/</item>
+    </string-array>
+
+    <string name="your_name">Your Name:</string>
+    <string name="email">Email Id:</string>
+    <string name="moblie_number">Mobile Number :</string>
+    <string name="query">Query:</string>
+    <string name="submit_txt">Submit</string>
+
+    <string name="muhurtham_titles">CLICK ON YOUR REQUIRED MUHURTHAM</string>
+    <string name="agriculture_muhurtham">Agriculture Muhurthams</string>
+
+    <string-array name="normal_muhurthm_list">
+        <item>1. Garbhadhanam</item>
+        <item>2. Pumsavanam</item>
+        <item>3. Semanthonayanam</item>
+        <item>4. Jaathakarma</item>
+        <item>5. Namakaranam: christening ceremony</item>
+        <item>6. Annaprasana</item>
+        <item>7. Choulam</item>
+        <item>8. Upanayanam</item>
+        <item>9. Vratha Chatustayam: Four rituals</item>
+        <item>10.Godaanam</item>
+        <item>11.Samavarthanam</item>
+        <item>12.Marriage ceremony</item>
+        <item>13.Vinayaka puja</item>
+        <item>14.Bride &amp; bride groom ceremony</item>
+        <item>15.Entrance ceremony of new bride</item>
+        <item>16.Offering of bangles</item>
+        <item>17.Engagement / Betrothal ceremony</item>
+        <item>18.Adopting ceremony of child</item>
+        <item>19.Welcoming ceremony of a pregnant women to her birth home</item>
+        <item>20.Muhurtham auspicious to a mother &amp; her new born body</item>
+        <item>21.Auspicious time for putting a baby in a cradle</item>
+        <item>22.Women to wear new jewellery</item>
+        <item>23.Inauguration : Inception ceremony of a new house</item>
+        <item>24.House warming function</item>
+        <item>25.Buying new home application furniture</item>
+        <item>26.New vehicle inauguration ceremony / new vehicle ceremony</item>
+        <item>27.To start a new business</item>
+        <item>28.To join in a new employment / job</item>
+        <item>29.Auspicious time for learning</item>
+        <item>30.To go for a doctor</item>
+        <item>31.For appointment of new workers servants</item>
+        <item>32.Entering politics</item>
+        <item>33.Inauguration of a new movie making</item>
+        <item>34.Releasing ceremony of a movie</item>
+        <item>35.To make a journey</item>
+        <item>36.To erect statues of Gods</item>
+        <item>37.To put an application for a job or for anything</item>
+        <item>38.To file a case in a court</item>
+        <item>39.Wearing ceremony of a new dress</item>
+        <item>40.Account books festival ceremony for a new year</item>
+        <item>41.To enter into a rental house</item>
+        <item>42.For talks of agreement</item>
+        <item>43.For settling agreement</item>
+        <item>44.For taking loan</item>
+        <item>45.For giving loan</item>
+    </string-array>
+
+
+    <string-array name="agriculture_muhrtham_list">
+        <item>1. Inauguration ceremony for farming</item>
+        <item>2. Ceremony for ploughing</item>
+        <item>3. Seed scattering time</item>
+        <item>4. For bringing harvest from fields</item>
+        <item>5. To plant plantaions &amp; Mango trees/plants</item>
+        <item>6. To plant date,Fig and Coconut plants</item>
+        <item>7. To scatter the seeds of Wheat, Black cereals</item>
+        <item>8. To plant Gauva,Orange,Pomegranate plants</item>
+        <item>9. To scatter the seeds of Bittergourd,Pumpkin,Sweetgourd</item>
+        <item>10.To plants flower plants</item>
+        <item>11.To buy cattle</item>
+        <item>12.To sell cattle</item>
+        <item>13.To start fishing ponds</item>
+        <item>14.Auspicious time for putting seeds of fish and hatchery.</item>
+        <item>15.To start journey with boats and yachts.</item>
+    </string-array>
+
+
+    <string name="name">Name </string>
+    <string name="sur_name">Sur Name </string>
+    <string name="gender">Gender :</string>
+    <string-array name="gender_array">
+        <item>-- Select Item --</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="age">Age :</string>
+
+    <string-array name="age_array">
+        <item>-- Select Item --</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+    </string-array>
+    <string name="star">Star :</string>
+
+    <string-array name="star_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>Ashvini</item>
+        <item>Bharani</item>
+        <item>Kruttika</item>
+        <item>Rohini</item>
+        <item>Mrugasira</item>
+        <item>Ardra</item>
+        <item>Punarvasu</item>
+        <item>Pushyami</item>
+        <item>Ashresha</item>
+        <item>Makha</item>
+        <item>Pubba</item>
+        <item>Uttara</item>
+        <item>Hasta</item>
+        <item>Chitta</item>
+        <item>Swati</item>
+        <item>Vishakha</item>
+        <item>Anuradha</item>
+        <item>Jyeshtha</item>
+        <item>Mula</item>
+        <item>Purvashadha</item>
+        <item>Uttarashadha</item>
+        <item>Shravanam</item>
+        <item>Dhanishtha</item>
+        <item>Satabhisham</item>
+        <item>Purvabhadra</item>
+        <item>Uttarabhadra</item>
+        <item>Revati</item>
+    </string-array>
+
+    <string name="rasi">Rasi :</string>
+    <string-array name="rasi_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>Mesham</item>
+        <item>Vrushabham</item>
+        <item>Mithunam</item>
+        <item>Karkatakam</item>
+        <item>Simham</item>
+        <item>Kanya</item>
+        <item>Tula</item>
+        <item>Vrushchikam</item>
+        <item>Dhanassu</item>
+        <item>Makaram</item>
+        <item>Kumbham</item>
+        <item>Meenam</item>
+
+    </string-array>
+    <string name="paddam">Paadam :</string>
+    <string-array name="paddam_array">
+        <item>-- Select Item --</item>
+        <item>--No Idea--</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+    </string-array>
+    <string name="place_of_muhurtham">Place of muhurtham :</string>
+    <string name="country">Country :</string>
+    <string name="state">State :</string>
+    <string name="required_muhurtham">Required muhurtham  </string>
+    <string name="prefered_months">Prefered Month   :</string>
+    <string-array name="prefered_month_array">
+        <item>-- Select Item --</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+
+    </string-array>
+    <string name="prefered_week">Prefered Week :
+    </string>
+    <string-array name="prefered_week_array">
+        <item>-- Select Item --</item>
+        <item>1st Week</item>
+        <item>2nd Week</item>
+        <item>3rd Week</item>
+        <item>4th Week</item>
+
+    </string-array>
+    <string name="your_email_id">Your E-mail   </string>
+    <string name="writer">Write  </string>
+    <string name="content">This muhurtham (auspicious time) is available to me because of my well doings in my past births and it is my responsibility for the pros and cons of the muhurthams set by me.</string>
+
+    <string name="birth_star">Birth  Star :</string>
+    <string name="father_name">Father’s  name  </string>
+    <string name="mother_name">Mother’s  name  </string>
+    <string name="near_town">Nearest town</string>
+
+    <string name="wife_name">Wife Name </string>
+    <string name="husband_name">Husband Name </string>
+
+
+    <string name="bride_groom">Bride Groom  </string>
+    <string name="bride">Bride  </string>
+
+    <string name="name_of_child">Name of the child </string>
+    <string name="father_names">Father’s name </string>
+    <string name="mother_names">Mother’s name </string>
+
+    <string name="child_name">Child Name :</string>
+
+    <string name="owner_name">Owner Name :</string>
+    <string name="servant">Servant Name :</string>
+</resources>
